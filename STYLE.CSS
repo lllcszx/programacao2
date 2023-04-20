@@ -1,0 +1,41 @@
+body, .SKINS{
+ background-color: rgb(2, 26, 48);
+
+}
+
+.titulo-centralizado{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
+    list-style: none;
+}
+
+#PATROCINIO{
+    width: 500PX;
+    list-style: none;
+}
+
+#CANIVETE{
+ width: 500px;
+}
+
+.SKINS{
+    display: inline-block;
+    
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#luvas{
+    width: 500px;
+}
+.itens{
+    list-style: none;
+    display: inline-block;
+    margin: 80px;
+    align-items: center;
+}
